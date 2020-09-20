@@ -5,6 +5,7 @@ Immersion is an open source project that allow users to create network visualiza
 
 ## Demo
 [![TED Talk](http://img.youtube.com/vi/i2a8pDbCabg/0.jpg)](https://www.youtube.com/watch?v=i2a8pDbCabg "TED Talk")
+*Click on this thumbnail to watch the video*
 
 ## Building
 ### Downloading the project
