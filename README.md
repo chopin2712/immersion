@@ -3,6 +3,9 @@
 
 Immersion is an open source project that allow users to create network visualizations of their email data.
 
+## Demo
+[![TED Talk](http://img.youtube.com/vi/i2a8pDbCabg/0.jpg)](https://www.youtube.com/watch?v=i2a8pDbCabg "TED Talk")
+
 ## Building
 ### Downloading the project
 
